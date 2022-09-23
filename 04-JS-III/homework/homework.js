@@ -290,15 +290,9 @@ function continueStatement(numero) {
     if (i == 4){
       continue;
     }
-    
     numero = numero + 2
     arreglo.push(numero)
-    
-    
-    
-    
-    
-  }return arreglo
+    }return arreglo
 }
 
 
